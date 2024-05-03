@@ -1,4 +1,4 @@
-# EC2 mod_proxy 사용해보기
+# EC2 mod_proxy 설정
 
 ## Web 인스턴스에 Apache 설치
 ~~~
