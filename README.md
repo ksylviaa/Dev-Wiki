@@ -3,10 +3,10 @@
 
 
 ## :deciduous_tree: Dev Wiki Tree
-- **[AWS](https://github.com/ksylviaa/Dev-Wiki/AWS)**
-    - [Amplify](https://github.com/ksylviaa/Dev-Wiki/AWS/Amplify)
-    - [EC2](https://github.com/ksylviaa/Dev-Wiki/AWS/EC2)
-- **[Docker](https://github.com/ksylviaa/Dev-Wiki/Docker)**
+- **[AWS](./AWS)**
+    - [Amplify](./AWS/Amplify)
+    - [EC2](,/AWS/EC2)
+- **[Docker](./Docker)**
   
 <br/>
 
